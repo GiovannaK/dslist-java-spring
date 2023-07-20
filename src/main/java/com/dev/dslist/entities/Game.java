@@ -21,6 +21,7 @@ public class Game {
     private String imgUrl;
     private String shortDescription;
     private String longDescription;
+    // mytestcomment
 
     public Game(Long id, String title, Integer year, String genre, String platform, Double score, String imgUrl,
             String shortDescription, String longDescription) {
